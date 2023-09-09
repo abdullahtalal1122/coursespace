@@ -3,9 +3,10 @@ const Button = ({
   primryColor = "#fff",
   backgroundColor = "#127C71",
   border = "none",
-  borderRadius = "20px",
-  padding = "10px 20px",
-  fontWeight = "bold",
+  borderRadius = "10px",
+  padding = "10px 15px",
+  fontWeight = "600",
+  margin = "0",
 }) => {
   return (
     <button
@@ -16,6 +17,7 @@ const Button = ({
         borderRadius,
         padding,
         fontWeight,
+        margin,
       }}
     >
       {value}

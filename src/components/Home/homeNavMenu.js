@@ -1,4 +1,4 @@
-import AncherTag from "../ancherTag";
+import AncherTag from "./ancherTag";
 
 const HomeNavMenu = () => {
   return (
@@ -10,4 +10,5 @@ const HomeNavMenu = () => {
     </div>
   );
 };
+
 export default HomeNavMenu;
