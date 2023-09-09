@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.74084f4b.css","mappings":"AAAA,yBAGE,kBAAmB,CAFnB,wBAA8B,CAC9B,YAAa,CAEb,4BACF","sources":["components/Home/layout.module.css"],"sourcesContent":[".container {\r\n  background-color: antiquewhite;\r\n  display: flex;\r\n  align-items: center;\r\n  justify-content: space-around;\r\n}\r\n"],"names":[],"sourceRoot":""}
