@@ -1,6 +1,6 @@
-import Button from "../button";
+import Button from "../../Utils/button";
 
-const HomeNavButtons = () => {
+const NavButtons = () => {
   return (
     <div>
       <Button
@@ -14,4 +14,4 @@ const HomeNavButtons = () => {
     </div>
   );
 };
-export default HomeNavButtons;
+export default NavButtons;

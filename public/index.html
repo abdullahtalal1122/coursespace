@@ -45,6 +45,22 @@
       button {
         font-family: "Montserrat", sans-serif;
       }
+      .embla {
+        overflow: hidden;
+      }
+      .embla__container {
+        display: flex;
+        grid-column-gap: 20px;
+      }
+      .embla__slide {
+        flex: 0 0 33.33%;
+        min-width: 0;
+      }
+      @media (max-width: 900px) {
+        .embla__slide {
+          flex: 0 0 50%;
+        }
+      }
     </style>
     <title>React App</title>
   </head>

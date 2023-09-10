@@ -18,6 +18,7 @@ const Button = ({
         padding,
         fontWeight,
         margin,
+        cursor: "pointer",
       }}
     >
       {value}
