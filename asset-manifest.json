@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/coursespace/static/css/main.26fb4d1e.css",
-    "main.js": "/coursespace/static/js/main.85ceab37.js",
+    "main.css": "/coursespace/static/css/main.d6ecb950.css",
+    "main.js": "/coursespace/static/js/main.f41bdb50.js",
+    "static/media/slider-4.webp": "/coursespace/static/media/slider-4.f4cfe0a289965a848f13.webp",
+    "static/media/home-hero.webp": "/coursespace/static/media/home-hero.a0fb9edf22fcc6678906.webp",
+    "static/media/slider-1.webp": "/coursespace/static/media/slider-1.6135aabe34144fd73bf3.webp",
+    "static/media/slider-3.webp": "/coursespace/static/media/slider-3.d4d25b029a2ef0de3d72.webp",
+    "static/media/slider-5.webp": "/coursespace/static/media/slider-5.1c0694dc2c0277053cc8.webp",
+    "static/media/slider-2.webp": "/coursespace/static/media/slider-2.b76dc2e416fcd187688e.webp",
     "index.html": "/coursespace/index.html",
-    "main.26fb4d1e.css.map": "/coursespace/static/css/main.26fb4d1e.css.map",
-    "main.85ceab37.js.map": "/coursespace/static/js/main.85ceab37.js.map"
+    "main.d6ecb950.css.map": "/coursespace/static/css/main.d6ecb950.css.map",
+    "main.f41bdb50.js.map": "/coursespace/static/js/main.f41bdb50.js.map"
   },
   "entrypoints": [
-    "static/css/main.26fb4d1e.css",
-    "static/js/main.85ceab37.js"
+    "static/css/main.d6ecb950.css",
+    "static/js/main.f41bdb50.js"
   ]
 }
