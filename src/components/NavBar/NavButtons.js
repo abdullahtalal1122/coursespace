@@ -1,4 +1,4 @@
-import Button from "../../Utils/button";
+import Button from "../Utils/button";
 
 const NavButtons = () => {
   return (

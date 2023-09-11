@@ -45,22 +45,24 @@
       button {
         font-family: "Montserrat", sans-serif;
       }
-      .embla {
-        overflow: hidden;
-      }
-      .embla__container {
+      /* Flex container for dots */
+      .rating {
         display: flex;
-        grid-column-gap: 20px;
+        align-items: center; /* Vertically center dots */
       }
-      .embla__slide {
-        flex: 0 0 33.33%;
-        min-width: 0;
+
+      /* Style the dots */
+      .dot {
+        width: 20px; /* Adjust the size of the dots as needed */
+        height: 20px;
+        border-radius: 50%; /* Make them circular */
+        margin-right: 5px; /* Adjust spacing between dots */
+        color: rgb(158, 158, 158);
       }
-      @media (max-width: 900px) {
-        .embla__slide {
-          flex: 0 0 50%;
-        }
+      .dot-activeColor {
+        color: #ffaf35;
       }
+      /* Style the filled dots based on the rating value */
     </style>
     <title>React App</title>
   </head>

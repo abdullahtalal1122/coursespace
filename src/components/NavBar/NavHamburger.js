@@ -1,4 +1,4 @@
-import styles from "../layout.module.css";
+import styles from "./nav.module.css";
 
 const HamburgerIcon = ({ isOpen, onClick }) => {
   return (

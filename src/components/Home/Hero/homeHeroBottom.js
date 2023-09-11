@@ -1,4 +1,4 @@
-import styles from "../layout.module.css";
+import styles from "../homelayout.module.css";
 import Ptag from "../../Utils/Ptag";
 
 const HeroBottom = () => {

@@ -1,7 +1,7 @@
 import NavMenu from "./NavMenu";
 import NavButtons from "./NavButtons";
 import NavLogo from "./NavLogo";
-import styles from "../layout.module.css";
+import styles from "./nav.module.css";
 import HamburgerIcon from "./NavHamburger";
 import { useState } from "react";
 

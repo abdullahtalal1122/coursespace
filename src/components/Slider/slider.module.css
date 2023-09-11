@@ -1,0 +1,105 @@
+.embla {
+  --slide-spacing: 1rem;
+  --slide-size: 27%;
+  --slide-height: 12rem;
+  padding: 1.6rem;
+  width: 750px;
+}
+.emblaViewport {
+  overflow: hidden;
+}
+.emblaContainer {
+  display: flex;
+  touch-action: pan-y;
+}
+
+.emblaButtons {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  position: absolute;
+  bottom: -10%;
+  right: 25px;
+  left: 1.6rem;
+}
+.emblaButton {
+  background-color: #fff;
+  border-radius: 50%;
+  text-decoration: none;
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  z-index: 1;
+  color: #127c71;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-left: 5px;
+}
+.emblaButton:hover {
+  background-color: #127c71;
+  color: #fff;
+}
+
+.emblaButtonSvg {
+  width: 45%;
+  height: 45%;
+}
+
+/* COURCES SLIDER CSS */
+.cardButton {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cardButton div:last-child button {
+  padding: 10px 12px;
+  border: none;
+  color: #fff;
+  background-color: #127c71;
+  border-radius: 100%;
+}
+/*  */
+.emblaSlide {
+  flex: 0 0 var(--slide-size);
+  min-width: 0;
+  margin-left: var(--slide-spacing);
+  padding: var(--slide-spacing);
+  position: relative;
+  background-color: #fff;
+  border: none;
+  border-radius: 20px;
+}
+.emblaSlideImg {
+  display: block;
+  height: var(--slide-height);
+  width: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 800px) {
+  .embla {
+    --slide-size: 43%;
+    width: 550px;
+  }
+}
+@media (max-width: 600px) {
+  .embla {
+    --slide-size: 90%;
+    width: 350px;
+  }
+}
+@media (max-width: 400px) {
+  .embla {
+    --slide-size: 85%;
+
+    width: 200px;
+  }
+  .emblaButton {
+    width: 2rem;
+  }
+}

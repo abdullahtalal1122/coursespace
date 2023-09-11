@@ -1,4 +1,4 @@
-import AncherTag from "../../Utils/ancherTag";
+import AncherTag from "../Utils/ancherTag";
 
 const NavMenu = () => {
   return (

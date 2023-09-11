@@ -1,13 +1,13 @@
-import Navbar from "../components/Home/NavBar/Nav";
+import Navbar from "../components/NavBar/Nav";
 import HomeHero from "../components/Home/Hero/homeHero";
-// import HomeCources from "../components/Home/Cources/homeCources";
+import HomeCources from "../components/Home/Cources/homeCources";
 
 const Home = () => {
   return (
     <div>
       <Navbar />
       <HomeHero />
-      {/* UNDER DEVLOPMENT <HomeCources /> */}
+      <HomeCources />
     </div>
   );
 };

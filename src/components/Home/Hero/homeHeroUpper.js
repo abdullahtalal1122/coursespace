@@ -2,8 +2,8 @@ import Button from "../../Utils/button";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStamp } from "@fortawesome/free-solid-svg-icons";
 import Ptag from "../../Utils/Ptag";
-
-import styles from "../layout.module.css";
+import image1 from "./images/home-hero.webp";
+import styles from "../homelayout.module.css";
 
 const HeroUpper = () => {
   return (
@@ -41,7 +41,7 @@ const HeroUpper = () => {
         </div>
       </div>
       <div className="hero-right">
-        <img src="./home-hero.webp" alt="Hero-Home" width="100%"></img>
+        <img src={image1} alt="Hero-Home" width="100%"></img>
       </div>
     </div>
   );
