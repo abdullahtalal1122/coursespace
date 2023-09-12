@@ -1,7 +1,7 @@
 import imageByIndex from "./imageByIndex";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import styles from "../../Slider/slider.module.css";
 import { faStar, faArrowRight } from "@fortawesome/free-solid-svg-icons";
+import styles from "../../Slider/slider.module.css";
 
 const CourceCard = ({ slides }) => {
   return (
