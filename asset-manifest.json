@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/coursespace/static/css/main.b0ee84da.css",
-    "main.js": "/coursespace/static/js/main.28c64281.js",
+    "main.css": "/coursespace/static/css/main.449cc289.css",
+    "main.js": "/coursespace/static/js/main.d165eba3.js",
+    "static/media/grab.png": "/coursespace/static/media/grab.74607d7be3d8209e9002.png",
     "static/media/home-feature.webp": "/coursespace/static/media/home-feature.5fbce5745ba5b14a01d7.webp",
-    "static/media/slider-4.webp": "/coursespace/static/media/slider-4.f4cfe0a289965a848f13.webp",
-    "static/media/home-hero.webp": "/coursespace/static/media/home-hero.a0fb9edf22fcc6678906.webp",
-    "static/media/slider-1.webp": "/coursespace/static/media/slider-1.6135aabe34144fd73bf3.webp",
     "static/media/slider-3.webp": "/coursespace/static/media/slider-3.d4d25b029a2ef0de3d72.webp",
+    "static/media/slider-4.webp": "/coursespace/static/media/slider-4.622b1b1584d3f93e0232.webp",
+    "static/media/home-hero.webp": "/coursespace/static/media/home-hero.a0fb9edf22fcc6678906.webp",
+    "static/media/slider-1.webp": "/coursespace/static/media/slider-1.10df683e3981e2517c5c.webp",
+    "static/media/google.png": "/coursespace/static/media/google.e6161e468c2ecf931e30.png",
+    "static/media/airbnb.png": "/coursespace/static/media/airbnb.8b980a5c85cbd1706cd8.png",
     "static/media/slider-5.webp": "/coursespace/static/media/slider-5.1c0694dc2c0277053cc8.webp",
     "static/media/feature1.PNG": "/coursespace/static/media/feature1.1d7cef7feb7b511d282b.PNG",
     "static/media/feature2.PNG": "/coursespace/static/media/feature2.26ffec6e50618fbf4e86.PNG",
-    "static/media/slider-2.webp": "/coursespace/static/media/slider-2.b76dc2e416fcd187688e.webp",
+    "static/media/slider-2.webp": "/coursespace/static/media/slider-2.94a707d17aef1e29938e.webp",
     "index.html": "/coursespace/index.html",
-    "main.b0ee84da.css.map": "/coursespace/static/css/main.b0ee84da.css.map",
-    "main.28c64281.js.map": "/coursespace/static/js/main.28c64281.js.map"
+    "main.449cc289.css.map": "/coursespace/static/css/main.449cc289.css.map",
+    "main.d165eba3.js.map": "/coursespace/static/js/main.d165eba3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0ee84da.css",
-    "static/js/main.28c64281.js"
+    "static/css/main.449cc289.css",
+    "static/js/main.d165eba3.js"
   ]
 }
