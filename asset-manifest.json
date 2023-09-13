@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/coursespace/static/css/main.27200a1e.css",
-    "main.js": "/coursespace/static/js/main.830000a5.js",
+    "main.css": "/coursespace/static/css/main.b0ee84da.css",
+    "main.js": "/coursespace/static/js/main.28c64281.js",
     "static/media/home-feature.webp": "/coursespace/static/media/home-feature.5fbce5745ba5b14a01d7.webp",
     "static/media/slider-4.webp": "/coursespace/static/media/slider-4.f4cfe0a289965a848f13.webp",
     "static/media/home-hero.webp": "/coursespace/static/media/home-hero.a0fb9edf22fcc6678906.webp",
@@ -12,11 +12,11 @@
     "static/media/feature2.PNG": "/coursespace/static/media/feature2.26ffec6e50618fbf4e86.PNG",
     "static/media/slider-2.webp": "/coursespace/static/media/slider-2.b76dc2e416fcd187688e.webp",
     "index.html": "/coursespace/index.html",
-    "main.27200a1e.css.map": "/coursespace/static/css/main.27200a1e.css.map",
-    "main.830000a5.js.map": "/coursespace/static/js/main.830000a5.js.map"
+    "main.b0ee84da.css.map": "/coursespace/static/css/main.b0ee84da.css.map",
+    "main.28c64281.js.map": "/coursespace/static/js/main.28c64281.js.map"
   },
   "entrypoints": [
-    "static/css/main.27200a1e.css",
-    "static/js/main.830000a5.js"
+    "static/css/main.b0ee84da.css",
+    "static/js/main.28c64281.js"
   ]
 }
